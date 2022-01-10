@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+html {
+    font-size: 20px;
+}
+
+.asdf {
+    font-family: 'Cinzel';
+    color: rebeccapurple;
+    width: 500px;
+    border: 3px solid white;
+}
+
+h1 {
+    font-family: 'Cinzel';
+    color: red;
+    width: 500px;
+    border: 3px solid white;
+}
+
+li {
+    font-family: 'Cinzel';
+    color: green;
+    background-color: rebeccapurple;
+    width: 500px;
+    border: 3px solid white;
+}
